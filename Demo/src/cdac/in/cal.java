@@ -32,7 +32,7 @@ public class cal {
             result = firstNumber / secondNumber;
         }
         else {
-            System.out.println("Invalid operation");
+            System.out.println(choose the correct options");
         }
         return result;
     }
